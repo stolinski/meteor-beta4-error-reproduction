@@ -1,0 +1,8 @@
+query NotReal {
+  notReal {
+    thing
+    two
+    hi
+    meteor
+  }
+}

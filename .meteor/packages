@@ -1,0 +1,20 @@
+meteor-base@1.4.0
+mobile-experience@1.1.0
+static-html
+typescript@3.7.6
+zodern:hide-production-sourcemaps
+zodern:standard-minifier-js
+
+standard-minifier-css@1.7.0-beta200.4
+fourseven:scss
+server-render@0.3.1
+promise@0.11.2
+es5-shim@4.8.0
+ecmascript@0.15.0-beta200.4
+
+dynamic-import@0.6.0-beta200.4
+npdev:react-loadable@1.0.0-beta.3
+
+# GraphQL / Apollo Stuff
+swydo:graphql
+hot-module-replacement@0.2.0-beta200.4
