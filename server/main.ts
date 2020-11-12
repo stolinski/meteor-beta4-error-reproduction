@@ -1,6 +1,4 @@
-import { Meteor } from "meteor/meteor"
-import "../api/imortTypes"
+import { mergeTypeDefs } from "@graphql-tools/merge"
+import Test from "../api/test.graphql"
 
-Meteor.startup(() => {
-  // code to run on server at startup
-})
+export default mergeTypeDefs([Test])
